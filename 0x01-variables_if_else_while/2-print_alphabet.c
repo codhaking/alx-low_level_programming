@@ -1,8 +1,10 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 
 /**
 * main - Print all the letters of alphabet in lowercase
-* Return: always 0
+* Return: Always 0
 */
 
 int main(void)
